@@ -44,4 +44,4 @@ pip install Pillow
 
 - 仅支持 JPG 格式
 - 破坏后图片可能无法解码，保存时可按需开启「过滤不可解码」选项
-- 该Readme由KIMI AI 生成
+- 该项目代码及Readme由KIMI AI 生成
