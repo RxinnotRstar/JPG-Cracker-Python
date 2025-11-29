@@ -1,6 +1,9 @@
 # JPG 比特流破坏器
 
 一个用于对 JPG 图片进行比特级损坏实验的 GUI 工具，支持区域选择、强度调节和批量保存。
+<img width="2560" height="1540" alt="图片" src="https://github.com/user-attachments/assets/bbb6facd-5e6a-467a-bacf-63aca307f45f" />
+
+<img width="2560" height="1540" alt="图片" src="https://github.com/user-attachments/assets/68bf5016-7262-46a9-b3b1-19a281fa6e48" />
 
 ---
 
